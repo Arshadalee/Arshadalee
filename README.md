@@ -1,8 +1,8 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m @Arshadali
-👀 I’m interested in creating software solutions for real world problem.
+👋 Hi, I’m @Arshadali<br>
+👀 I’m interested in creating software solutions for real world problem.<br>
 👨‍💻 I’m currently working on my System Design and Development Skills.<br>🤯 I’m currently learning advanced Architectures<br>🤩 I’m looking to collaborate on Web Development Projects
 
 
